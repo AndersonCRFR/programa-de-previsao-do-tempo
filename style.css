@@ -18,7 +18,7 @@ body{
 
 
 .box{
-    background: #0056EB;
+    background: #161818;
     opacity: 0.8;
     border-radius: 25px;
     padding: 20px;
@@ -32,8 +32,8 @@ body{
     padding: 10px;
     border-radius: 25px;
     font-size: 20px;
-    background-color: #2C2C33;
-    color:#ffff;
+    background-color: #ffffff;
+    color:#080808;
     width: calc(100% - 100px);
     text-align: center;
     
@@ -44,7 +44,7 @@ body{
     outline: none;
     padding: 10px;
     border-radius: 50px;
-    background-color: #2C2C33;
+    background-color: #f3f3f5;
     cursor: pointer;
     float:right;
 }
